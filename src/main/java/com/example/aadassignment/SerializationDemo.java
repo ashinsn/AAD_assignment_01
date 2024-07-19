@@ -12,6 +12,7 @@ public class SerializationDemo {
             System.out.println("Serialization successful: " + student);
         } catch (IOException e) {
             e.printStackTrace();
+
         }
 
         // Deserialization
